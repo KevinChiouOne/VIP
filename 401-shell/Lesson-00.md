@@ -16,11 +16,17 @@ Install the tools:
 
 `sudo apt install -y curl net-tools htop odt2txt dos2unix pandoc rename pwgen`
 
-## Prepare
+## Prepare for 401
 
 `sudo apt install -y mysql-server dos2unix`
 
-*F12 (guake) OR Ctrl + Alt + T (new terminal)*
+___
+> Optional: IF you logged in as a "sudoer", now exit
+>
+> `exit`
+>
+>
+___
 
 `mkdir -p ~/School/VIP/shell`
 
